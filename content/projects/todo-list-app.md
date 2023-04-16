@@ -9,8 +9,8 @@ weight: 204
 cover:
     image: "projects/todo-list-app/cover.jpg"
 --- 
-### 🔗 [View App](https://arkalim-todo-list.netlify.app)
-### 🔗 [GitHub](https://github.com/arkalim/todo-list-app)
+### 🔗 [View App](https://kingaj-todo.netlify.app/)
+### 🔗 [GitHub](https://github.com/King-Kingah/todo-app-react.git)
 
 ## Description
 
