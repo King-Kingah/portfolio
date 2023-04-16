@@ -1,9 +1,9 @@
 ---
-title: "I passed the AWS DVA Certification Exam"
-description: "How I passed the AWS Developer - Associate Certification Exam (DVA-C02)"
-dateString: Mar 2023
+title: "I passed the AWS Certified Practitioner Certification Exam"
+description: "How I passed the AWS Certified - Practitioner Certification Exam (CLF-C01)"
+dateString: Mar 2022
 draft: false
-tags: ["AWS", "DVA", "Certification", "Developer", "Developer Associate"]
+tags: ["AWS", "CLF", "Certification", "Developer", "Cloud"]
 weight: 101
 cover:
     image: "/blog/aws-dva-certification/cover.jpg"
@@ -14,17 +14,15 @@ cover:
 
 ### 🔗 [Credly Badge](https://www.credly.com/badges/b08022fe-627a-4b78-8647-b42955f50767/public_url)
 
-### 🎬 [YouTube Video](https://youtu.be/x88k9fuEDuE)
-
 # Introduction
-I've passed the AWS Solutions Architect - Associate certification exam with just a month of preparation while pursuing MSc in Applied Computing at the University of Toronto and working as a DevOps Intern at [16Bit](https://16bit.ai), a med-tech startup based in Toronto. In this article, I’ll be sharing everything about this exam, my preparation strategies and tips. So, if you have plans on taking this exam anytime soon, read this article till the end. 
+I've passed the AWS Certified - Practitioner certification exam with just a month of preparation while in my final year pursuing BSc in Telecommunication and Information Engineering at Jomo Kenyatta University of Agriculture and Technology. In this article, I’ll be sharing everything about this exam, my preparation strategies and tips. So, if you have plans on taking this exam anytime soon, read this article till the end. 
 
-# What is AWS Developer - Associate Certification
+# What is AWS Certified - Practitioner Certification
 With the rise of Cloud Computing, companies have constantly been shifting from running their infrastructure on-premise, which is hard to scale and manage, to running them on cloud, which offers far more elasticity in terms of scaling and resiliency in case of disasters.
 
 ![](/blog/aws-dva-certification/img1.jpg)
 
-The AWS **Developer - Associate** certification validates your expertise in developing and maintaining applications on AWS, which is the leading cloud provider today. It focuses on AWS core services, development tools and deployment practices. It can help developers enhance their skills, increase their earning potential, and demonstrate their proficiency to potential employers.
+The AWS **Certified - Practitioner** certification validates your expertise in developing and maintaining applications on AWS, which is the leading cloud provider today. It focuses on AWS core services, development tools and deployment practices. It can help developers enhance their skills, increase their earning potential, and demonstrate their proficiency to potential employers.
 
 ![](/blog/aws-dva-certification/img2.png)
 
