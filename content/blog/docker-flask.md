@@ -1,9 +1,9 @@
 ---
 title: "Getting Started with Docker & Flask"
-description: "Data compression using Principal Component Analysis (PCA)"
+description: "Hands-on introduction to Docker and Flask"
 dateString: Sep 2021
 draft: false
-tags: ["Docker", "Flask", "Python", "PCA", "Data Compression"]
+tags: ["Docker", "Flask", "Python"]
 weight: 107
 cover:
     image: "/blog/pca-visualized/cover.jpg"
