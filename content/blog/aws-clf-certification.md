@@ -6,7 +6,7 @@ draft: false
 tags: ["AWS", "CLF", "Certification", "Developer", "Cloud"]
 weight: 101
 cover:
-    image: "/blog/aws-dva-certification/cover.jpg"
+    image: "/blog/aws-clf-certification/cover.jpg"
 ---
 
 # Credentials
@@ -20,11 +20,11 @@ I've passed the AWS Certified - Practitioner certification exam with just a mont
 # What is AWS Certified - Practitioner Certification
 With the rise of Cloud Computing, companies have constantly been shifting from running their infrastructure on-premise, which is hard to scale and manage, to running them on cloud, which offers far more elasticity in terms of scaling and resiliency in case of disasters.
 
-![](/blog/aws-dva-certification/img1.jpg)
+![](/blog/aws-clf-certification/img1.jpg)
 
 The AWS **Certified - Practitioner** certification validates your expertise in developing and maintaining applications on AWS, which is the leading cloud provider today. It focuses on AWS core services, development tools and deployment practices. It can help developers enhance their skills, increase their earning potential, and demonstrate their proficiency to potential employers.
 
-![](/blog/aws-dva-certification/img2.png)
+![](/blog/aws-clf-certification/img2.png)
 
 # Exam Format
 In this exam, you will get **65 questions** and **130 minutes** to answer them which means you get **2 mins per question**. Out of the total questions, 15 will be experimental (ungraded). But you will not know which ones are experimental, otherwise you will skip them. So, you need to attempt every question on the test.
@@ -33,7 +33,7 @@ You will be graded on a percentile basis on a scale of 100 to 1000 where you wil
 
 This exam has a pass / fail criteria. If you pass the exam, your score doesn't really matter. It will only be written on your score report for your reference. It will not be mentioned anywhere on the certificate. 
 
-The cost of taking this exam is 150 USD but I got 50% off, so I paid just 75 USD. The way it works is that if you passed your first AWS certification exam, then you can get 50% off on the second one if you take it within a year of taking the first certification. Since, I passed the [AWS Solution’s Architect - Associate Certification](https://arkalim.org/blog/aws-saa-certification) exam in the month of May last year, I was eligible for the discount.
+The cost of taking this exam is 150 USD but I got 50% off, so I paid just 75 USD. The way it works is that if you passed your first AWS certification exam, then you can get 50% off on the second one if you take it within a year of taking the first certification. 
 
 # My Preparation Strategy
 I prepared for about 4-6 hours everyday for a months while being a grad student and working as a DevOps intern. I took the [AWS Developer - Associate Course by **Stephane Maarek**](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01) which is available on [Udemy](https://www.udemy.com/). Preparing for the DVA exam was a bit easy for me as I had already passed the SAA exam, because the concepts overlap to some degree between the two certification exams.
@@ -51,7 +51,7 @@ I also created a notion page for quick notes to include information that’s har
 
 🔗 [My notes](https://drive.google.com/file/d/1VhFPfb1cc7ORFVqFetCvpiGLPE96ofg4/view?usp=sharing)
 
-![](/blog/aws-dva-certification/img3.png)
+![](/blog/aws-clf-certification/img3.png)
 
 # Taking the Test
 You can take the test either at a testing center or online at the comfort of your home. I would suggest you go for a testing center if it is available nearby. The experience is so smooth and you don't have to worry about internet connectivity or proctoring issues. I took the test at a testing center and my experience was good. 
