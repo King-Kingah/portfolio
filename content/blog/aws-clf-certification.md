@@ -4,7 +4,7 @@ description: "How I passed the AWS Certified - Practitioner Certification Exam (
 dateString: Mar 2022
 draft: false
 tags: ["AWS", "CLF", "Certification", "Developer", "Cloud"]
-weight: 101
+weight: 105
 cover:
     image: "/blog/aws-clf-certification/cover.jpg"
 ---

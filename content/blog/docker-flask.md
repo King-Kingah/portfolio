@@ -4,7 +4,7 @@ description: "Hands-on introduction to Docker and Flask"
 dateString: Sep 2021
 draft: false
 tags: ["Docker", "Flask", "Python"]
-weight: 107
+weight: 101
 cover:
     image: "/blog/pca-visualized/cover.jpg"
 ---
