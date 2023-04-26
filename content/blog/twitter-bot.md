@@ -35,23 +35,23 @@ Search for Twitter Developer Account on any search engine of your choice and cho
 
 Request for a Twitter Developer Account and provide a few answers:
 
-![](/blog/docker-flask/img2.png#center)
+![](/blog/twitter-bot/img1.png#center)
 
 Create an application:
 
-![](/blog/docker-flask/img2.png#center)
+![](/blog/twitter-bot/img2.png#center)
 
 Request for privileged permissions under the User Authentication Settings. I decided to use *OAuth 1.0a*:
 
-![](/blog/docker-flask/img2.png#center)
+![](/blog/twitter-bot/img3.png#center)
 
 Select the Read and write and Direct message App permissions:
 
-![](/blog/docker-flask/img2.png#center)
+![](/blog/twitter-bot/img4.png#center)
 
 Generate API Key, API Key Secret, Access Token and Access Token Secret:
 
-![](/blog/docker-flask/img2.png#center)
+![](/blog/twitter-bot/img5.png#center)
 
 ## Python Virtual Environment
 
@@ -66,7 +66,7 @@ python3 -m venv yourvirtualenv
 Activate the Virtual environment to install the libraries:
 
 ```terminal
-source /yourvirtualenv/bin/activate
+source /(yourvirtualenv)/bin/activate
 ```
 
 Install the following packages/libraries:
@@ -104,7 +104,7 @@ access_token=<Your Access Token Here>
 access_token_secret=<Your Access Token Secret here>
 ```
 
-![](/blog/docker-flask/img2.png#center)
+![](/blog/docker-flask/img6.png#center)
 
 We’ll start by importing the dependencies:
 
@@ -226,7 +226,7 @@ while True:
 
 Once completed, we can run the bot. Here is a screen capture of the bot in action:
 
-![](/blog/docker-flask/img2.png#center)
+![](/blog/twitter-bot/img7.png#center)
 
 # Conclusion
 
