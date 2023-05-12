@@ -72,10 +72,8 @@ params:
       url: "https://www.linkedin.com/in/james-kinga-nyoro"
     - name: "github"
       url: "https://github.com/king-kingah"
-    - name: "youtube"
-      url: "https://www.youtube.com/"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+      url: "https://docs.google.com/document/d/1PvtKUtd0YsX1Y-fZ5PZaOdsMY_aQwGxXQEnWEtPtPME/edit?usp=sharing"
 
   # text search
   fuseOpts:
