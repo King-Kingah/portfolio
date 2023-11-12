@@ -44,14 +44,10 @@ Once I was done with the course, I did two sets of practice tests:
 ![](/blog/aws-clf-certification/img3.png)
 
 # Taking the Test
-You can take the test either at a testing center or online at the comfort of your home. I would suggest you go for a testing center if it is available nearby. The experience is so smooth and you don't have to worry about internet connectivity or proctoring issues. I took the test at a testing center and my experience was good. 
+You can take the test either at a testing center or online at the comfort of your home. I would suggest you go for a testing center if it is available nearby. The experience is so smooth and you don't have to worry about internet connectivity or proctoring issues. I took the test at home and found the proctoring quite strict.
 
-Last year, I took the AWS SAA exam online from my home and my experience was pretty bad. The proctor asked me not to move my lips while reading the questions. So, the proctoring was way too strict. I was stressed and mindful about my body position, and was not able to focus well on the actual test. Another problem with taking the test online is that if the proctor cancels your exam, you won't get a refund. You will have to rebook and retake the test at a later date.
-
-# Tips for taking the AWS SAA exam
+# Tips for taking the AWS CLF exam
 - Take as many practice tests as you can. They will give you an idea of the kind of topics that come up in the exam most often. Also, the questions in these practice tests match very well with the ones appearing on the actual exam.
 
-- The amount of information that you will have to go through to prepare for this exam is enormous. You not only need a good understanding of the various AWS resources and architectures, but you will also have to remember a lot of information. So, keep at least 3 days to revise your notes before the exam.
-
 # That's all folks
-That was all about the AWS Developer - Associate Certification exam. Thanks a lot for reading!
+That was all about the AWS Cloud Practitioner - Certification exam. Thanks a lot for reading!
