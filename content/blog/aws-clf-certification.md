@@ -36,20 +36,10 @@ This exam has a pass / fail criteria. If you pass the exam, your score doesn't r
 The cost of taking this exam is 150 USD but I got 50% off, so I paid just 75 USD. The way it works is that if you passed your first AWS certification exam, then you can get 50% off on the second one if you take it within a year of taking the first certification. 
 
 # My Preparation Strategy
-I prepared for about 4-6 hours everyday for a months while being a grad student and working as a DevOps intern. I took the [AWS Developer - Associate Course by **Stephane Maarek**](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01) which is available on [Udemy](https://www.udemy.com/). Preparing for the DVA exam was a bit easy for me as I had already passed the SAA exam, because the concepts overlap to some degree between the two certification exams.
+I prepared for about 4-6 hours everyday for a months while being a grad student and working as a Cloud PreSales intern. I read [The Good Parts of AWS by **Daniel Vassallo and Josh Pschorr**](https://dvassallo.gumroad.com/l/aws-good-parts). Additionally, wactching the freeCodeCamp's [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc&t=5855s) offered by Andrew Brown.
 
-Once I was done with the course, I bought three sets of practice tests on Udemy that are provided by:
-- [Stephane Maarek](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/)
-- [Jon Bonso](https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-amazon-dva-c01/)
-- [Neal Davis](https://www.udemy.com/course/aws-developer-associate-practice-exams/)
-
-Each of these practice test packages contain 6 practice tests. Additionally, a free practice test is provided with the course.
-
-While going through the course, I took easy to follow notes in Notion. Additionally, while taking the practice tests, I saved the questions along with their explanations, into a Notion page, for the questions that I got wrong and the questions that I found difficult to answer. This would come in handy later when I revise everything before the exam. 
-
-I also created a notion page for quick notes to include information that’s hard to remember, things like message retention duration of a Kinesis Data Stream or the IOPS limits for the different EBS volume types. I just glanced through this stuff before taking the actual test to have all that information fresh in my memory.
-
-🔗 [My notes](https://drive.google.com/file/d/1VhFPfb1cc7ORFVqFetCvpiGLPE96ofg4/view?usp=sharing)
+Once I was done with the course, I did two sets of practice tests:
+- A free practice test was offered under a voucher program.
 
 ![](/blog/aws-clf-certification/img3.png)
 
