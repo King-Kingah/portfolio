@@ -10,9 +10,9 @@ cover:
 ---
 
 # Credentials
-### 🔗 [Certificate](https://drive.google.com/file/d/1VhFPfb1cc7ORFVqFetCvpiGLPE96ofg4/view?usp=sharing)
+### 🔗 [Certificate](https://drive.google.com/file/d/1S0nQ_sswbxTz2JgyCPjmAEkv-bcKF1uq/view?usp=drive_link)
 
-### 🔗 [Credly Badge](https://www.credly.com/badges/b08022fe-627a-4b78-8647-b42955f50767/public_url)
+### 🔗 [Credly Badge](https://www.credly.com/badges/fb2cbfd8-dd0a-4a4c-9ee3-8727122043fb/public_url)
 
 # Introduction
 I've passed the AWS Certified - Practitioner certification exam with just a month of preparation while in my final year pursuing BSc in Telecommunication and Information Engineering at Jomo Kenyatta University of Agriculture and Technology. In this article, I’ll be sharing everything about this exam, my preparation strategies and tips. So, if you have plans on taking this exam anytime soon, read this article till the end. 
