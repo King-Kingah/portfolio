@@ -74,6 +74,8 @@ params:
       url: "https://github.com/king-kingah"
     - name: "cv"
       url: "https://docs.google.com/document/d/1PvtKUtd0YsX1Y-fZ5PZaOdsMY_aQwGxXQEnWEtPtPME/edit?usp=sharing"
+    - name: "devto"
+      url: "https://dev.to/james_kinga"
 
   # text search
   fuseOpts:
