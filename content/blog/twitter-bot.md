@@ -6,7 +6,7 @@ draft: false
 tags: ["Python", "AWS", "API", "Tweepy", "Twitter"]
 weight: 106
 cover:
-image: "/blog/aws-clf-certification/cover.jpg"
+    image: "/blog/twitter-bot/cover.png"
 ---
 
 
