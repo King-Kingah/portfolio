@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "James Kinga"
-    subtitle: "Hello 👋, I'm James Kinga. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an AWS Certified Practitioner. Along with my grad studies, I've been working as a **Collaration Engineer** at [**NCBA Group PLC**](https://www.ncbagroup.com), a Tier I bank in Nairobi, Kenya 🇰🇪. While pursuing my bachelors degree, I worked as a **Network Engineer** at [**KPLC**](https://www.kplc.co.ke/), a power transmission and distriution corpotration based in Kenya 🇰🇪. When I'm free, I write technical articles 📄 on career, programming concepts & productivity tools"
+    subtitle: "Hello 👋, I'm James Kinga. I'm passionate about **Backend Dev**, **Cloud {Computing}** and **DevOps**. I am a AWS Certified Practitioner, Oracle Cloud Infrastructure Multicloud Architect Certified Associate, and Oracle Cloud Infrastructure DevOps Certified Professional. Along with my grad studies, I have over 3 years of experience in IT and Cloud infrastructure management, commissioning, administration, and maintenance, optimizing existing systems and successfully implementing projects in network services and infrastructure across tech, energy, and finance companies including [**NCBA Group PLC**](https://www.ncbagroup.com), [**Safaricom PLC**](https://www.safaricom.co.ke/), and [**KPLC**](https://www.kplc.co.ke/). When I'm free, I write technical articles 📄 on career, programming concepts & productivity tools"
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
