@@ -37,4 +37,7 @@ The portfolio looks as follows:
 - Hugo (Static site generator)
 - GitHub Actions (Build and Deploy Pipeline)
 - Netlifly (Hosting)
-- [TODO] AWS Lambda Functions (Site visitors counter)
+- [**TODO**] Add site visitor count using:
+- - AWS Lambda Functions (Python), 
+  
+  - AWS DynamoDB to store the count.
