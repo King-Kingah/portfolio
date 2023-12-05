@@ -1,5 +1,11 @@
 # [Portfolio](https://kingaj.netlify.app/) #
 
+## Overview
+This repository contains the source code for my personal portfolio, built using Hugo, hosted on Netlify, and set up with a continuous deployment workflow using GitHub Actions and Netlify.
+
+## Features
+
+
 This is a portfolio that primarily showcases my technology stack.
 
 The portfolio looks as follows:
